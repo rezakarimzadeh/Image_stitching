@@ -1,0 +1,11 @@
+SIFT:
+https://www.youtube.com/watch?v=IBcsS8_gPzE
+
+RANSAC:
+https://www.youtube.com/watch?v=9D5rrtCC_E0
+
+homography matrix:
+https://www.youtube.com/watch?v=l_qjO4cM74o
+
+
+
